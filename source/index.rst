@@ -6,6 +6,8 @@
 Welcome to reincarnate's documentation!
 =======================================
 
+Hello!
+
 Contents:
 
 .. toctree::
